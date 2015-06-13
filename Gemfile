@@ -25,6 +25,7 @@ gem 'devise',                 '~> 3.4.1'
 gem 'figaro'
 gem 'paperclip',              '~> 4.2.1'
 gem 'quiet_assets',           group: :development
+gem 'aws-sdk'
 
 # riding on heroku
 gem 'rails_12factor',         group: :production
