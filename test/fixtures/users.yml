@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+test:
+  email:                 test@example.com
+  password:              password
+  password_confirmation: password
