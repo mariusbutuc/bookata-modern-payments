@@ -1,1 +1,4 @@
 # heroku config:get <key_name>
+
+MANDRILL_APIKEY:
+MANDRILL_USERNAME:
