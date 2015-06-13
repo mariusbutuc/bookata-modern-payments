@@ -22,3 +22,4 @@ end
 
 # sales specific
 gem 'devise',                 '~> 3.4.1'
+gem 'paperclip',              '~> 4.2.1'
